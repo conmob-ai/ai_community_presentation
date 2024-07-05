@@ -1,0 +1,13 @@
+lxml
+atlassian-python-api
+langchain
+langchain_community
+langchain_openai
+python-dotenv
+pymongo
+Pillow
+pytesseract Pillow
+pytesseract pdf2image
+docx2txt
+reportlab
+svglib
